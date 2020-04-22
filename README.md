@@ -9,6 +9,7 @@ Features:
 - Every time the game starts, a random rgb value is generated
 - Player can select any of the three modes of difficulty: Easy, Medium, and Hard
   - Easy has 3 blocks to pick from, Medium has 6 and Hard has 9
+  - Default mode is Medium
   - Change mode will reset the game
 - Player can reset the game by clicking 'New Colors'
 - If player picks a wrong color, the block dispears
