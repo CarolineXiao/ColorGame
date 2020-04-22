@@ -101,6 +101,7 @@ function resetGame(num) {
 	}
 	h1.style.backgroundColor = "steelblue";
 	messageDisplay.textContent = "";
+	resetButton.textContent = "New Colors";
 }
 
 function setSquares() {
@@ -113,4 +114,3 @@ function setSquares() {
 		}
 	}
 }
-
