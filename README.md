@@ -1,7 +1,8 @@
 # ColorGame
 A JavaScript Practicing Project
+Play it here: https://carolinexiao.github.io/ColorGame/
 
-How to play:
+About the Game:
 Given a random RGB value and try to guess the correct color
 
 Features:
