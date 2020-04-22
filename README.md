@@ -1,0 +1,2 @@
+# ColorGame
+JavaScript Practicing Project
