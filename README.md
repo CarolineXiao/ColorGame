@@ -5,6 +5,12 @@ Play it here: https://carolinexiao.github.io/ColorGame/
 About the Game:
 Given a random RGB value and try to guess the correct color
 
+The app was developed with:
+- HTML
+- CSS
+- JavaScript
+
+
 Features:
 - Every time the game starts, a random rgb value is generated
 - Player can select any of the three modes of difficulty: Easy, Medium, and Hard
