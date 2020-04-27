@@ -8,7 +8,7 @@ Given a random RGB value and try to guess the correct color
 The app was developed with:
 - HTML
 - CSS
-- JavaScript
+- Vanilla JS
 
 
 Features:
